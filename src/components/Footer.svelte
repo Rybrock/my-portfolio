@@ -1,5 +1,5 @@
 <footer
-    class="py-20 sm:py-32 bg-black border-t border-solid border-violet-950 flex flex-col gap-4 sm:gap-8 justify-center items-center"
+    class="py-20 sm:py-32 bg-black border-t border-solid border-sky-950 flex flex-col gap-4 sm:gap-8 justify-center items-center"
 >
     <p class="px-4 py-2 bg-white text-slate-950 font-medium">
         Connect with me &darr;
@@ -20,7 +20,7 @@
         <p><b class="pr-2">Email</b> itsrybrock@gmail.com</p>
         <p>
             <b class="pr-2">GitHub</b>
-            <a href="https://github.com/Rybrock" target="_blank" class="text-violet-400"
+            <a href="https://github.com/Rybrock" target="_blank" class="text-sky-400"
                 >Ryan Brockley<sup class=""
                     ><span class="text-xs scale-75 pl-0.5"
                         ><i
@@ -32,7 +32,7 @@
         </p>
         <p>
             <b class="pr-2">Phone</b>
-            <a href="tel:+447539294710" target="_blank" class="text-violet-400"
+            <a href="tel:+447539294710" target="_blank" class="text-sky-400"
                 >07539294710<sup class=""
                     ><span class="text-xs scale-75 pl-0.5"
                         ><i
