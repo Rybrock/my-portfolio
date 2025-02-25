@@ -6,9 +6,9 @@
     ];
 
     let benefits = [
-        {name: 'A self taught developer', description: 'AFter an illustrious 18+ years in the engineering industry, I have retrained to become a Front End Developer. In engineering i reached the highest possible echalon and I plan on doing the same with my development career.'},
-        {name: 'A front end and UX fanatic', description: 'I love knowing how things work. I like to see plans and idea\'s manifested into a real world project. I like to build things that have value and purpose in their given industries.'},
-        {name: 'An excellent communicator', description: 'I can work great alone or as part of a team. I am a great talker and love to verbally communicate my thoughts and idea\'s.'},
+        {name: 'A self taught developer', description: 'With over 18 years of experience in the engineering industry, I have transitioned into Front-End Development, bringing the same dedication and drive that propelled me to the highest levels in my previous field. My goal is to achieve excellence in software development, leveraging my problem-solving skills and technical expertise to create impactful digital experiences.'},
+        {name: 'A front end and UX fanatic', description: 'I have a deep passion for understanding how things work and transforming ideas into tangible, real-world projects. I thrive on building solutions that deliver value and serve a meaningful purpose within their respective industries.'},
+        {name: 'An excellent communicator', description: 'I excel both independently and as part of a team. With strong communication skills, I thrive in collaborative environments, articulating ideas clearly and effectively to drive projects forward.'},
     ]
 </script>
 
