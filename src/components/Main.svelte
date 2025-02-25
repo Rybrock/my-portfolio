@@ -71,11 +71,8 @@
                     It was created with <strong class="text-violet-400"> Vue.js and Firebase</strong>
                 </p>
             </Step>
-            <Step step={steps[1]}>
-                <p>I am recently new to React abd this is a small project to showcase my progress so far.
-                    It was created with <strong class="text-violet-400"> React and hosted with Netify</strong>
+                <p class="text-center">More <strong class="text-violet-400 text-2xl"> Coming soon...</strong>
                 </p>
-            </Step>
         </div>
     </section>
     <section
