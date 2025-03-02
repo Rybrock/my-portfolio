@@ -1,7 +1,7 @@
 <script>
     import Step from "./Step.svelte";
     let steps = [
-        {name: 'Game Stash', icon: 'fa-solid fa-gamepad', href: 'https://game-stash-e9d0b.web.app/'},
+        {name: 'GameFace', icon: 'fa-solid fa-gamepad', href: 'https://gameface-44e8b.web.app/'},
         {name: 'React Products', icon: 'fa-brands fa-react', href: 'https://tubular-marzipan-3730e7.netlify.app' },
     ];
 
@@ -67,8 +67,8 @@
         </a>
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-10">
             <Step step={steps[0]}>
-                <p>Game Stash is a one stop shop for everything gaming. You can search games, add to favorites and even create collections.
-                    It was created with <strong class="text-sky-400"> Vue.js and Firebase</strong>
+                <p>GameFace is a one stop shop for everything gaming. You can search games, add to favorites and even create collections.
+                    It was created with <strong class="text-sky-400"> Nuxt.JS and Firebase</strong>
                 </p>
             </Step>
                 <p class="text-center">More <strong class="text-sky-400 text-2xl"> Coming soon...</strong>
@@ -95,21 +95,6 @@
     </p>
     <div class="flex flex-col gap-20 w-full mx-auto max-w-[800px]">
         {#each benefits as benefit, index}
-            <!-- <div class="flex flex-col gap-2 mx-auto">
-                <div class="flex items-end gap-4">
-                    <p
-                        class="poppins text-6xl sm:text-7xl md:text-8xl text-slate-500 font-medium"
-                    >
-                        {benefit.metric}
-                    </p>
-                    <p
-                        class="text-xl sm:text-2xl md:text-3xl capitalize pb-2"
-                    >
-                        {benefit.name}
-                    </p>
-                </div>
-                <p class="text-center italic">- {benefit.description}</p>
-            </div> -->
             <div class="flex gap-6 sm:gap-8">
                 <p
                     class="poppins text-4xl sm:text-5xl md:text-6xl text-slate-500 font-semibold"
