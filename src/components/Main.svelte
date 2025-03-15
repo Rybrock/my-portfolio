@@ -1,7 +1,7 @@
 <script>
     import Step from "./Step.svelte";
     let steps = [
-        {name: 'GameFace', icon: 'fa-solid fa-gamepad', href: 'https://gameface-44e8b.web.app/'},
+        {name: 'GameFace', icon: 'fa-solid fa-gamepad', href: 'https://gameface.life'},
         {name: 'React Products', icon: 'fa-brands fa-react', href: 'https://tubular-marzipan-3730e7.netlify.app' },
     ];
 
